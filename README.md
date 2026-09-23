@@ -1,1 +1,1 @@
-# heeral_project
+# Figma Accessibility Checker A tool that connects to a user's Figma file via the Figma REST API, extracts the colors used in text and background layers, and checks them against WCAG contrast standards and common color-blindness simulations — flagging problem pairings (like low-contrast text or colors that look identical to colorblind users) so designers can catch accessibility issues before handoff.
