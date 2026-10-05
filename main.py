@@ -3,7 +3,7 @@
 # Heeral Chumber - HCI 584
 
 import os
-import requests
+FIGMA_TOKEN = os.environ.get("FIGMA_TOKEN", "")
 
 # ── 1. CONFIG ──────────────────────────────────────────────────
 FIGMA_TOKEN = "figd_xYyTPBCXSX6XJpqWJHpUM3blKTemwDkV38yZyhWh"   # replace with your token
